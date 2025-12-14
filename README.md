@@ -1,4 +1,4 @@
-# GoEmotions-MA: Fine-Grained Emotion Analysis with Structured Prompting and Multi-Agent Reasoning
+# GoEmotions: Fine-Grained Emotion Analysis with Structured Prompting and Multi-Agent Reasoning
 
 > **Enhancing Fine-Grained Emotion Classification using Structured Prompt Engineering and Multi-Agent LLM Architectures**
 
