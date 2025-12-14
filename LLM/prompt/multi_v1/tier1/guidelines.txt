@@ -1,0 +1,15 @@
+(GUIDELINES) 
+1. Input Description:
+- ‘text’ is a GoEmotion dataset, and you need to classify the polarity based on this.
+2. Determine polarity ONLY when direct textual evidence exists. Do NOT infer emotions or intent beyond what is explicitly written.
+3. Purely descriptive, factual, or instructional statements must be labeled "Neutral".
+4. Positive indicators: happy, excited, proud, love, grateful, hopeful.
+5. Negative indicators: sad, angry, frustrated, stressed, scared, worried.
+6. AMBIGUOUS RULE (strict): The label "Ambiguous" is allowed ONLY when the text expresses one of the following emotional states: {surprise, confusion, curiosity, realization} - If the text does NOT explicitly contain one of these emotional states, DO NOT choose Ambiguous.
+- Instead, choose Neutral or the most dominant polarity.
+- Typical cue examples: “wow”, “wait… what?”, “huh?”, “oh…”, “I’m confused”, “I didn’t expect that”, “I wonder”, “really?”, etc.
+7. Mixed Polarity: Output multiple polarities ONLY when explicit conflicting emotions are present (e.g. “I’m sad but also hopeful”).
+8. Neutral may appear in combination ONLY when part of the text is purely factual while another part is emotional.
+9. Perform internal reasoning silently; do not reveal chain-of-thought. Output only the final result.
+10. Analyze whether the text expresses a subjective emotional reaction or an objective observation. Even if the text contains emotionally charged words (whether positive or negative), if the speaker is merely stating a fact, making a prediction, or describing a situation without significant emotional intensity, classify it as Neutral.
+(GUIDELINES END)

@@ -1,0 +1,45 @@
+f1 macro는 다른 f1의 산술평균
+28분류에서는 퓨샷과 거의 정비례
+6분류에서는 거의 반비례
+
+28분류에서는 전체적인 경향성이 퓨샷이 늘 수록 증가한다
+6분류에서는 반대
+
+28->6
+맞는건 맞는거고
+틀린 것 중에 같이 묶인 애들이 있다면 맞는거
+그외는 틀린거
+
+fewshot 수정 : disgust, neutral 포함
+disgust랑 anger 분류
+output structure 수정
+데이터 비율 어떻게 할 것인지 논의
+
+규명되지 않은 것
+temperature top_p에 따른 성능
+
+
+anger - Precision: 0.3803, Recall: 0.6064, F1-Score: 0.4674
+disgust - Precision: 0.4091, Recall: 0.3529, F1-Score: 0.3789
+fear - Precision: 0.3718, Recall: 0.5472, F1-Score: 0.4427
+joy - Precision: 0.7304, Recall: 0.7014, F1-Score: 0.7156
+sadness - Precision: 0.4257, Recall: 0.5521, F1-Score: 0.4807
+surprise - Precision: 0.3397, Recall: 0.6075, F1-Score: 0.4357
+neutral - Precision: 0.6939, Recall: 0.1294, F1-Score: 0.2182
+
+anger - Precision: 0.3897, Recall: 0.5977, F1-Score: 0.4718
+disgust - Precision: 0.3864, Recall: 0.3333, F1-Score: 0.3579
+fear - Precision: 0.3919, Recall: 0.5472, F1-Score: 0.4567
+joy - Precision: 0.7147, Recall: 0.6995, F1-Score: 0.7070
+sadness - Precision: 0.4048, Recall: 0.5312, F1-Score: 0.4595
+surprise - Precision: 0.3419, Recall: 0.5904, F1-Score: 0.4330
+neutral - Precision: 0.7163, Recall: 0.1282, F1-Score: 0.2174
+
+anger - Precision: 0.3920, Recall: 0.5452, F1-Score: 0.4561
+disgust - Precision: 0.2727, Recall: 0.4118, F1-Score: 0.3281
+fear - Precision: 0.4085, Recall: 0.5472, F1-Score: 0.4677
+joy - Precision: 0.7176, Recall: 0.6947, F1-Score: 0.7059
+sadness - Precision: 0.4069, Recall: 0.4896, F1-Score: 0.4444
+surprise - Precision: 0.3373, Recall: 0.5802, F1-Score: 0.4266
+neutral - Precision: 0.6826, Recall: 0.1447, F1-Score: 0.2387
+

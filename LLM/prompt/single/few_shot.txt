@@ -1,0 +1,14 @@
+(FEW_SHOT_EXAMPLE)
+[
+{'example_id': 1, 'input': 'Why does this app keep freezing? So annoying.', 'output': {'analysis': [{'emotion': 'annoynance', 'reason': 'Annoyance expressed at inconvenience.'}]}},
+{'example_id': 2, 'input': 'I wish I could travel the world without worrying about money.', 'output': {'analysis': [{'emotion': 'desire', 'reason': 'Expressing longing or desire.'}]}},
+{'example_id': 3, 'input': 'This is really disgusting, the 4x4 community is one of the nicest around, Shame that a few c*nts gotta do shit like this.', 'output': {'analysis': [{'emotion': 'disgust', 'reason': 'The words "disgusting" is strong expressions of revulsion and contempt.'}]}},
+{'example_id': 4, 'input': 'I can’t wait for the new movie release this weekend!', 'output': {'analysis': [{'emotion': 'excitement', 'reason': 'Excitement for an upcoming event.'}]}},
+{'example_id': 5, 'input': ‘It’s been months since he passed, but the grief is still raw.', 'output': {'analysis': [{'emotion': 'grief', 'reason': 'Grief expressed after loss.'}]}},
+{'example_id': 6, 'input': 'he speaker is describing a physical or emotional state related to an ongoing event.', 'output': {'analysis': [{'emotion': 'nervousness', 'reason': 'Describing a physical or emotional state in relation to an ongoing event often indicates feelings of nervousness or anticipation about the outcome.'}]}},
+{'example_id': 7, 'input': 'Winning the award made me feel incredibly proud of myself.', 'output': {'analysis': [{'emotion': 'pride', 'reason': 'Achievement leads to self-pride.'}]}},
+{'example_id': 8, 'input': 'Oh, that’s why the internet kept cutting out—the cable was loose.', 'output': {'analysis': [{'emotion': 'realization', 'reason': 'Sudden understanding of a cause.'}]}},
+{'example_id': 9, 'input': 'I was so relieved when the doctor said everything looked fine.', 'output': {'analysis': [{'emotion': 'relief', 'reason': 'Relief after stress is resolved.'}]}},
+{'example_id': 10, 'input': 'I didn’t expect to see my old teacher at the airport.', 'output': {'analysis': [{'emotion': 'surprise', 'reason': 'Unexpected encounter causes surprise.'}]}},
+]
+(FEW_SHOT_EXAMPLE END)

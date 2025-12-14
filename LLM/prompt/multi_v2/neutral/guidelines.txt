@@ -1,0 +1,7 @@
+(GUIDELINES) 
+1. Calculate score based on direct textual evidence and emotion description.
+2. Refer to (EMOTION DESCRIPTION) and give me a score a minimum of 1 point to a maximum of 100 points where the text is not emotional.
+3. Inclusion is repeated three times internally to derive score.
+4. input description:
+- ‘text’ is a GoEmotion dataset which is the string you need to find the score for each ambiguous emotion.
+(GUIDELINES END)

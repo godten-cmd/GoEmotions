@@ -1,0 +1,6 @@
+(EMOTION DESCRIPTION)
+confusion: Lack of understanding, uncertainty.
+curiosity: A strong desire to know or learn something.
+realization: Becoming aware of something.
+surprise: Feeling astonished, startled by something unexpected.
+(EMOTION DESCRIPTION END)

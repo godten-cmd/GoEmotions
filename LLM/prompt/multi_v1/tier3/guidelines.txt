@@ -1,0 +1,27 @@
+(GUIDELINES) 
+1. Input Description:
+- "text" to extract explicit fine-grained emotions
+- "ekman" to verify Ekman-to-fine-grained mapping
+2. First, identify key phrases and emotional cues in the text. Second, match them to the (EMOTION DEFINITIONS) to determine which of the 28 labels best fit. If no appropriate emotion appears, choose "neutral".
+3. Default to a single emotion. Your primary goal is to find the single most dominant emotion in the text.
+4. Assign a second emotion only if two emotions are clearly and equally present, or if the sentence contains a clear transition between them. When in doubt, prefer a single label.
+5. Assign three or more labels only for longer, complex texts with multiple, explicitly distinct emotional segments. Avoid this for short sentences.
+6. Neutral handling: Choose "neutral" only when the text is purely factual or emotional signals are too weak to be conclusive.
+7. Reason silently and output only the final emotions and their brief reasons.
+8. Ekman-to-GoEmotions constraint (Emotion must match ekman):
+- If Ekman contains "Anger":
+-> allowed: anger, annoyance, disapproval
+- If Ekman contains "Disgust":
+-> allowed: disgust
+- If Ekman contains "Fear":
+-> allowed: fear, nervousness
+- If Ekman contains "Joy":
+-> allowed: admiration, amusement, approval, caring, desire, excitement, gratitude, joy, love, optimism, pride, relief
+- If Ekman contains "Sadness":
+-> allowed: sadness, disappointment, embarrassment, grief, remorse
+- If Ekman contains "Surprise":
+-> allowed: surprise, confusion, curiosity, realization
+- If Ekman contains "Neutral":
+-> you MUST output only "neutral"
+If multiple Ekman labels are provided, the allowed GoEmotions are the union of each Ekman’s allowed set.
+(GUIDELINES END)

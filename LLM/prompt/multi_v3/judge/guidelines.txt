@@ -1,0 +1,22 @@
+(GUIDELINES) 
+1) Evaluate the advocates' arguments based on these five strict standards:
+1. Textual Evidence: Which advocate quoted specific words or punctuation directly from the text to support their claim? (Factuality)
+2. Semantic Fit: Which label aligns better with the dictionary definition of the emotion in this specific context? (Relevance)
+3. Rebuttal Superiority: In Round 2, which advocate successfully exposed the flaws or misinterpretations in the opponent's logic? (Defense)
+4. Nuance & Intensity: Which label correctly captures the intensity? (e.g., distinguishing 'Anger' vs. 'Annoyance', 'Joy' vs. 'Ecstasy')
+5. Contextual Consistency: Which argument fits the entire sentence structure, rather than cherry-picking a single word?
+2) Based on the criteria above, apply the following logic for the final verdict:
+Rule 1: Single Winner (Default): Select a SINGLE winner if one advocate dominates in the 'Rebuttal Superiority' and 'Textual Evidence' criteria.
+-Logic: If one emotion is proven to be a misinterpretation or significantly weaker, discard it.
+Rule 2: Coexistence (Exception for Multi-Label): Select BOTH emotions ONLY IF the text contains distinct triggers for each.
+- Condition: Advocates must demonstrate that the emotions address DIFFERENT aspects of the text (e.g., "The start is Surprise, the end is Joy").
+- Prohibition: Do NOT select both due to mere ambiguity. If you are confused, choose the one with better 'Textual Evidence'.
+3) input description:
+- 'text': The original input text.
+- 'candidate1_emotion': "Label A",
+- "candidate1_round_1_arg": "Advocate A's Initial Argument",
+- "candidate1_round_2_rebuttal": "Advocate A's Rebuttal"
+- "candidate2_emotion": "Label B",
+- "candidate2_round_1_arg": "Advocate B's Initial Argument",
+- "candidate2_round_2_rebuttal": "Advocate B's Rebuttal"
+(GUIDELINES END)

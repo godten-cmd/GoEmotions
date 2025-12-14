@@ -1,0 +1,14 @@
+(EMOTION DESCRIPTION)
+disgust: Revulsion or strong disapproval aroused by something unpleasant or offensive.
+anger: A strong feeling of displeasure or antagonism.
+fear: Being afraid or worried.
+sadness: Emotional pain, sorrow.
+annoyance: Mild anger, irritation.
+disapproval: Having or expressing an unfavorable opinion.
+nervousness: Apprehension, worry, anxiety.
+disappointment: Sadness or displeasure caused by the nonfulfillment of one’s hopes or expectations.
+embarrassment: Self-consciousness, shame, or awkwardness.
+grief: Intense sorrow, especially caused by someone’s death.
+remorse: Regret or guilty feeling.
+sadness: Emotional pain, sorrow.
+(EMOTION DESCRIPTION END)

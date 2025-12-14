@@ -1,0 +1,205 @@
+[CHAIN OF THOUGHT]
+Read the entire Text thoroughly.
+Follow the Thought Process internally and draw out the final emotion.
+Text: [Text example] 
+Thought Process: 
+Text Analysis: [Describe the mood or the main content of this text. For example, "The sentence is a question expressing uncertainty and confusion."] 
+Identify Clues: [Find words or phrases in the text that clearly express emotion. For example, "The phrase 'I don’t know anybody...' directly indicates a lack of knowledge or understanding, leading to confusion."] 
+Final Judgment: [Synthesize the clues to explain why you concluded this emotion. For example, "The questioning tone and lack of information point directly to the emotion of 'confusion'."] 
+Emotion: [Emotion label]
+example 1
+Text: Your response is truly one of the most amazing ones I’ve seen.
+Thought Process:
+Text Analysis: The sentence is an extremely positive statement directed at another person's work or contribution ("Your response"). The tone is one of high praise and commendation.
+Identify Clues: The phrase "truly one of the most amazing ones" is a strong form of praise. Words like "truly" and "amazing" are explicit indicators of a strong, positive feeling and a high regard for the quality of the response.
+Final Judgment: The speaker is expressing profound approval and respect for the quality of the response. This is a clear expression of 'admiration'.
+Emotion: admiration
+example 2
+Text: Haha this dude’s from the area I’m from. He’s a local treasure 
+Thought Process:
+Text Analysis: The sentence uses informal, familiar language ("Haha," "dude's," "local treasure") to express positive sentiment about a person.
+Identify Clues: "Haha" is a direct indicator of laughter and amusement. "Local treasure" is a term of endearment, suggesting the person is valued and brings joy.
+Final Judgment: The combination of laughter and positive, informal praise indicates a feeling of lightheartedness and pleasure. 
+Emotion: amusement
+example 3
+Text: WHY THE FUCK IS BAYLESS ISOING 
+Thought Process:
+Text Analysis: This is an aggressive and frustrated question. The use of a profanity and all-caps text shows strong negative emotion.
+Identify Clues: The use of "FUCK" and the question in all caps highlights intense frustration and displeasure with a person's actions. "ISOING" implies a specific action that the speaker disapproves of.
+Final Judgment: The raw, aggressive language clearly demonstrates intense displeasure and exasperation.
+Emotion: anger 
+example 4
+Text: Shit, I guess I accidentally bought a Pay-Per-View boxing match 
+Thought Process:
+Text Analysis: The speaker realizes they made a mistake ("accidentally bought") that has negative consequences (a purchase they didn't intend to make).
+Identify Clues: The expletive "Shit" at the beginning is a common expression of frustration or mild exasperation. The word "accidentally" confirms the lack of intent.
+Final Judgment: The text conveys a feeling of being bothered and irritated by a careless mistake.
+Emotion: annoyance
+example 5
+Text: You can always kneel. 
+Thought Process:
+Text Analysis: This is a brief, declarative statement offering a suggestion or alternative. It implies a sense of calm and acceptance.
+Identify Clues: The phrase "You can always" suggests a simple, uncontroversial solution. It implies that the action is both possible and acceptable.
+Final Judgment: The text provides an alternative without judgment, suggesting that the speaker supports or agrees with the action. 
+Emotion: approval
+example 6
+Text: Glad you feel better! My offer still stands though, if you need someone, I’m here Thought Process:
+Text Analysis: The sentence begins with a positive wish for the other person's well-being and follows up with an offer of continued support.
+Identify Clues: "Glad you feel better!" is an expression of happiness for someone else's recovery. "My offer still stands though, if you need someone, I’m here" is a direct statement of support and willingness to help.
+Final Judgment: The combination of happiness for the other person and the offer of help indicates a genuine and supportive attitude. 
+Emotion: caring
+example 7
+Text: Demographics? I don’t know anybody under 35 who has cable tv. 
+Thought Process:
+Text Analysis: The speaker is responding to a question about demographics by stating their personal lack of knowledge and perspective.
+Identify Clues: The question "Demographics?" and the statement "I don't know anybody under 35..." show the speaker's personal experience contradicts the premise of the question, leading to a state of being baffled.
+Final Judgment: The speaker is expressing uncertainty and a lack of understanding based on their own observations. 
+Emotion: confusion
+example 8
+Text: Who is this Wild team? Where have they been? 
+Thought Process:
+Text Analysis: This is a series of questions about a sports team. The questions aren't rhetorical; they're seeking information.
+Identify Clues: "Who is this...?" and "Where have they been?" are direct questions aimed at gathering information and satisfying a desire to know more about the subject.
+Final Judgment: The speaker's questions reveal an interest in learning more about the team's background and performance. 
+Emotion: curiosity
+example 9
+Text: I want my nuggs mom! 
+Thought Process:
+Text Analysis: The speaker is making a direct and demanding request for something they want.
+Identify Clues: The phrase "I want my nuggs" is a clear statement of desire for a specific item.
+The word "mom!" can be used to emphasize the demand.
+Final Judgment: The text is an explicit expression of wanting something intensely. 
+Emotion: desire
+example 10
+Text: He was off by 5 minutes, not impressed. 
+Thought Process:
+Text Analysis: The sentence states a minor failure ("off by 5 minutes") and explicitly links it to a negative feeling.
+Identify Clues: The phrase "not impressed" is a direct statement of negative feeling due to a perceived shortcoming.
+Final Judgment: The speaker is expressing a feeling of dissatisfaction and letdown because of a minor failure. 
+Emotion: disappointment
+example 11
+Text: This isn't really wholesome 
+Thought Process:
+Text Analysis: The speaker is providing a negative assessment of a situation.
+Identify Clues: "isn't really wholesome" is a form of negative judgment. It suggests that the speaker finds the content to be inappropriate or unsavory.
+Final Judgment: The text is a criticism of something that fails to meet a standard of "wholesomeness," indicating a lack of approval. 
+Emotion: disapproval
+example 12
+Text: ur a disgusting piece of filth. 
+Thought Process:
+Text Analysis: This is a direct, insulting statement directed at another person. The language is extremely negative and offensive.
+Identify Clues: The words "disgusting" and "filth" are strong expressions of revulsion and contempt.
+Final Judgment: The text uses powerful, negative descriptors to show revulsion and strong moral contempt for the person being addressed. 
+Emotion: disgust
+example 13
+Text: i feel dumb <3 
+Thought Process:
+Text Analysis: The speaker is expressing a negative self-perception, yet follows it with a heart emoji. This contrast is key.
+Identify Clues: "i feel dumb" is a direct statement of feeling foolish or unintelligent. The heart emoji softens the tone, suggesting a self-deprecating or relatable statement.
+Final Judgment: The speaker is admitting to a foolish mistake or action and feeling silly about it. 
+Emotion: embarrassment
+example 14
+Text: Yeah let's wrap up AS4 I'm suddenly so much more excited for S11 
+Thought Process:
+Text Analysis: The speaker expresses a desire to move on from a current event to a new one, showing a surge of enthusiasm.
+Identify Clues: "suddenly so much more excited" is a direct, explicit statement of heightened anticipation and positive emotion.
+Final Judgment: The language clearly indicates a high level of enthusiasm and anticipation for a future event. 
+Emotion: excitement
+example 15
+Text: To make her feel threatened 
+Thought Process:
+Text Analysis: This is a brief, purpose-driven statement. It describes an action intended to elicit a specific negative emotional response from someone else.
+Identify Clues: The verb "threatened" is a direct synonym for the emotion of fear. The action's intent is to cause this feeling.
+Final Judgment: The statement explicitly mentions the goal of causing a feeling of being threatened. 
+Emotion: fear
+example 16
+Text: Thank you friend 
+Thought Process:
+Text Analysis: The speaker is expressing thanks to a person they consider a friend.
+Identify Clues: The phrase "Thank you" is a direct and universal expression of gratitude. The addition of "friend" makes the gratitude feel more personal and warm.
+Final Judgment: The text is a clear and direct expression of thankfulness. 
+Emotion: gratitude
+example 17
+Text: I read on a different post that he died shortly after of internal injuries. 
+Thought Process:
+Text Analysis: The sentence conveys news of someone's death and a tragic cause of death.
+Identify Clues: The subject of the sentence is "he died," which is a direct reference to death, a primary cause of grief. "Internal injuries" adds a painful detail.
+Final Judgment: The text reports a tragic loss, a topic inherently associated with sorrow and profound sadness. 
+Emotion: grief
+example 18
+Text: Happy to be able to help. 
+Thought Process:
+Text Analysis: The speaker is expressing positive feelings about an action they performed.
+Identify Clues: "Happy to be able to help" is a direct and simple statement of joy from being helpful. The word "happy" is a clear emotional marker.
+Final Judgment: The speaker is expressing happiness and satisfaction from assisting someone. 
+Emotion: joy
+example 19
+Text: I adore this comment section <3 
+Thought Process:
+Text Analysis: The speaker is expressing a very strong positive feeling towards a group of comments.
+Identify Clues: The word "adore" is a powerful term for deep affection or love. The heart emoji "<3" reinforces this feeling.
+Final Judgment: The text is an explicit expression of deep affection and fondness. 
+Emotion: love
+example 20
+Text: I am getting so nervous watching this 
+Thought Process:
+Text Analysis: The speaker is describing a physical or emotional state related to an ongoing event.
+Identify Clues: The phrase "getting so nervous" is a direct, explicit statement of a feeling of anxiety or fear.
+Final Judgment: The speaker is clearly articulating a state of anxiety or apprehension while observing something. 
+Emotion: nervousness
+example 21
+Text: I hope she lives to be 200, just to piss them off. 
+Thought Process:
+Text Analysis: The speaker is expressing a positive hope for someone's future, but with a humorous, spiteful motivation.
+Identify Clues: The phrase "I hope she lives to be 200" is a positive, future-oriented statement. While the motive "to piss them off" adds a twist, the primary emotion is about holding a positive outlook for the future.
+Final Judgment: The text is a statement of hope for a positive outcome in the future, even if the motive is negative. 
+Emotion: optimism
+example 22
+Text: I'm so proud of you! 
+Thought Process:
+Text Analysis: The speaker is directly conveying a strong positive emotion about another person's achievement.
+Identify Clues: "I'm so proud of you!" is a direct, explicit statement of pride.
+Final Judgment: The speaker is clearly expressing a feeling of satisfaction in another person's accomplishment.
+Emotion: pride
+example 23
+Text: I take that back after the last two games. 
+Thought Process:
+Text Analysis: The speaker is retracting a previous statement due to new information orevidence.
+Identify Clues: The phrase "I take that back" indicates that the speaker's prior opinion has been changed by recent events ("after the last two games"). This is a sudden recognition of a new truth.
+Final Judgment: The speaker has a sudden new understanding of a situation, which is a classic example of realization. 
+Emotion: realization
+example 24
+Text: I’m glad I wasn’t the only one. I thought wow they’re really gonna get it for this one Thought Process:
+Text Analysis: The speaker expresses relief that they were not alone in a feeling or belief. The phrase "wow they're really gonna get it for this one" indicates that they were expecting a negative outcome.
+Identify Clues: "I'm glad I wasn't the only one" is a direct statement of relief. The underlying
+fear of being alone in a risky opinion has been alleviated.
+Final Judgment: The speaker is feeling a sense of comfort and ease now that they know others share their opinion, which is a textbook example of relief.
+Emotion: relief
+example 25
+Text: Apologies, I take it all back as I’ve just seen his latest effort 
+Thought Process:
+Text Analysis: The speaker is apologizing and retracting a previous statement after a new observation.
+Identify Clues: The word "Apologies" is a direct apology. "I take it all back" is a statement of regret, acknowledging a mistake in judgment.
+Final Judgment: The speaker is expressing regret and remorse for their past words. Emotion: remorse
+example 26
+Text: my brain hurts... 
+Thought Process:
+Text Analysis: This is a simple statement of physical discomfort, likely caused by a mentally taxing or emotionally draining situation.
+Identify Clues: "my brain hurts..." can be a literal statement of physical pain, but in this context, it is a common idiom for feeling overwhelmed or upset. It signifies distress and mental exhaustion.
+Final Judgment: The speaker is expressing a feeling of mental or emotional pain, which is an indicator of sadness. 
+Emotion: sadness
+example 27
+Text: This...has 9k upvotes. Wow. 
+Thought Process:
+Text Analysis: The speaker is reacting to an unexpected and highly unusual number of upvotes.
+Identify Clues: The ellipsis "..." and the exclamation "Wow." are direct exclamations of shock or astonishment. The number "9k" is presented as a surprisingly large figure.
+Final Judgment: The speaker is expressing a feeling of being taken aback by an unexpected fact. 
+Emotion: surprise
+example 28
+Text: My favourite food is anything I didn't have to cook myself. 
+Thought Process:
+Text Analysis: This is a statement of personal preference about food. It does not contain any strong emotional cues.
+Identify Clues: There are no words or phrases that indicate a specific positive or negative emotion. The statement is factual and declarative.
+Final Judgment: The text is a simple statement of fact or opinion without any emotional undertone. 
+Emotion: neutral
+[CHAIN OF THOUGHT END]

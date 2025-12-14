@@ -1,0 +1,14 @@
+(EMOTION DESCRIPTION)
+admiration: Finding something impressive or worthy of respect.
+amusement: Finding something funny or being entertained.
+approval: Having or expressing a favorable opinion.
+caring: Displaying kindness and concern for others.
+desire: A strong feeling of wanting something or wishing for something to happen.
+excitement: Feeling of great enthusiasm and eagerness.
+gratitude: A feeling of thankfulness and appreciation.
+joy: A feeling of pleasure and happiness.
+love: A strong positive emotion of regard and affection.
+optimism: Hopefulness and confidence about the future or the success of something.
+pride: Pleasure or satisfaction due to ones own achievements or the achievements of those with whom one is closely associated.
+relief: Reassurance and relaxation following release from anxiety or distress.
+(EMOTION DESCRIPTION END)

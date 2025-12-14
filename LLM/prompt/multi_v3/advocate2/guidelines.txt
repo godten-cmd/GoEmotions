@@ -1,0 +1,10 @@
+(GUIDELINES) 
+1. Direct Rebuttal: Explicitly address weaknesses or misinterpretations in the 'opponent_argument_r1'. (e.g., "The opponent claims X, but the context implies Y.")
+2. Deepen Logic: Do not merely repeat your first argument. synthesize the debate context to provide a stronger, final justification.
+3. Persuasion: Aim to sway the Judge's final decision in your favor.
+4. input description:
+- 'text':The original input text currently being defended in Step 2.
+- 'assigned_emotion': The emotion label you are defending.
+- 'my_argument_r1': Your argument from Round 1.
+- 'opponent_argument_r1': The argument presented by the opponent in Round 1 (Target for rebuttal).
+(GUIDELINES END)

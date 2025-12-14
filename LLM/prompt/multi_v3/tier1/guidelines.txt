@@ -1,0 +1,15 @@
+(GUIDELINES) 
+1. Think step by step carefully, First, identify key phrases and their emotional cues in the text. Second, classify them according to the description of each emotion to determine which of the 28 labels best match these cues. If there are no appropriate emotions in the sentence, please judge it as ‘neutral’. 
+2. Default to a single emotion. Your primary goal is to find the single most dominant emotion in the text. This will be the correct approach for the vast majority of sentences. 
+3. Assign a second emotion only under strict conditions. Do this only if two emotions are clearly and equally present, or if the sentence contains a clear transition from one emotion to another. When in doubt, prefer a single label. 
+4. Assigning three or more labels is an exceptional case. This should be reserved only for longer, more complex texts where multiple, distinct emotions are explicitly described in sequence. Avoid this for short, simple sentences.If two emotions are equally dominant and indistinguishable, DO NOT force a choice. Mark as 'Unsettled' to defer the decision.
+5. Neutral Handling Choose `neutral` only when the text is purely factual, descriptive, or the emotional signals are too weak to be conclusive.
+6. Repeat reasoning 3 times internally and output the most consistent emotion(s)
+7. After completing the "3-time internal reasoning" in step 6, evaluate your confidence level:
+- Scenario A (Confident): If one emotion (or a clear multi-label set) is dominant and consistent across your reasoning steps, output the final classification as usual.
+- Scenario B (Unsettled/Ambiguous): If you are unable to prioritize one emotion over another because:
+    a) The text implies two distinct emotions with equal strength (e.g., Joy vs. Surprise), OR
+    b) The nuance is subtle and could be interpreted in two mutually exclusive ways (e.g., Anger vs. Annoyance)
+In this Scenario B case, classify the status as "Unsettled". You must explicitly select these two competing emotions as your Top-2 Candidates to trigger the Tier-2 Advocate Agent.
+8. We prefer sending cases to the Courtroom (Unsettled) over making hasty decisions.
+(GUIDELINES END)

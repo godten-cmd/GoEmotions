@@ -1,0 +1,4 @@
+(OUTPUT STRUCTURE)
+1. Strict JSON Output: Your final output must be a single JSON object. Do not include any text outside of this JSON object.
+- polarity: The specific polarity label from the list. (Positive, Negative, Neutral, Ambiguous)
+(OUTPUT STRUCTURE END)

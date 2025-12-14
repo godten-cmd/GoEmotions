@@ -1,0 +1,8 @@
+(EMOTION DESCRIPTION)
+anger: A strong feeling of displeasure or antagonism. 
+disgust: Revulsion or strong disapproval aroused by something unpleasant or offensive. 
+fear: Being afraid or worried. 
+joy: A feeling of pleasure and happiness. 
+sadness: Emotional pain, sorrow.
+surprise: Feeling astonished, startled by something unexpected.
+(EMOTION DESCRIPTION END)

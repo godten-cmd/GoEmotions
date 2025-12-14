@@ -1,0 +1,23 @@
+(GUIDELINES) 
+1. Input Description:
+Use ONLY these two fields:
+- "text" → for emotion evidence
+- "polarity" → to ensure polarity consistency
+2. You MUST preserve the Tier-1 polarity result. Do NOT contradict it. The Ekman label must follow this mapping:
+- Positive → Joy
+- Negative → Sadness, Anger, Fear, Disgust
+- Neutral → Neutral
+- Ambiguous → Surprise ONLY
+If an Ekman label contradicts polarity, do NOT choose it.
+3. Process order:
+(1) Identify explicit emotional cue words or phrases in the text.
+(2) Determine which Ekman emotion best fits the observed evidence.
+- If no explicit emotion is present → choose "Neutral".
+4. Always default to a single dominant emotion. Assign a second emotion only if two emotions are clearly and equally present. Never infer emotional multiplicity unless explicitly stated.
+5. Assign three or more labels only in long, complex texts containing clearly separated emotions. Avoid multi-label output for short sentences.
+6. Anger vs Disgust:
+- Anger: antagonism, injustice, aggression, attack toward someone/something.
+- Disgust: rejection, revulsion, moral or physical contamination.
+   Choose ONLY one.
+7. Do NOT perform hidden inference. Reason silently. Do not reveal chain-of-thought.
+(GUIDELINES END)

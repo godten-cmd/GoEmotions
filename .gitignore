@@ -1,0 +1,22 @@
+# API keys and secrets (keep local only)
+LLM/key/*.txt
+LLM/key/*.key
+LLM/key/*.secret
+*.key
+*.secret
+*.pem
+*.p12
+*.p8
+
+# Environment/config files
+.env
+.env.*
+
+# Model weights (too large for git)
+bert/model_saved*/
+*.safetensors
+
+# OS/editor noise
+.DS_Store
+__pycache__/
+.vscode/

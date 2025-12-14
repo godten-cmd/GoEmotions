@@ -1,0 +1,7 @@
+(GUIDELINES) 
+1. Calculate score based on direct textual evidence and emotion description.
+2. Each of the emotion in (EMOTION DESCRIPTION) will be given a minimum of 1 point to a maximum of 100 points, depending on whether they match the emotions contained in the text.
+3. Inclusion is repeated three times internally to derive score.
+4. input description:
+- ‘text’ is a GoEmotion dataset which is the string you need to find the score for each fear emotion.
+(GUIDELINES END)

@@ -1,0 +1,21 @@
+(GUIDELINES) 
+1. Definition of Neutral: Classify as TRUE (Neutral) if the text is: 
+- A plain statement of fact (e.g., "I went to the store.") 
+- A purely informational question (e.g., "What time is it?")
+- A general observation without subjective opinion.
+2. Distinction:
+- Do not confuse 'Curiosity' with simple questions. Only label as Emotional if the question implies distinct interest or shock.
+- Do not confuse 'Realization' with stating a fact.
+3. Threshold Policy: 
+- If the text lacks explicit emotional keywords (e.g., love, hate, wow, terrible) or strong punctuation (!, ??), default to Neutral. 
+- When in doubt, it is Neutral
+4. Reference Standards (Examples):
+- Case A: Factual Statement (Neutral)
+Input: "I work at a dealership and we see this happen all the time."
+Verdict: TRUE (Neutral)
+Reason: This is a descriptive statement about the speaker's job/situation without subjective adjectives.
+- Case B: Information Seeking (Neutral)
+Input: "Do you have a link to the article mentioned?"
+Verdict: TRUE (Neutral)
+Reason: A functional request for a specific resource/source. This is NOT emotional 'Curiosity'.
+(GUIDELINES END)

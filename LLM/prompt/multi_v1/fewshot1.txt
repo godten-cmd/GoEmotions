@@ -1,0 +1,18 @@
+(FEW_SHOT_EXAMPLE)
+{0: "I love Rocket Love and Blasted. I just wonder who the songs were written for because these are all reference tracks except Acura Intergul" - ["love"]}
+{1: "I think the 90 day rule applies to increases over 5%?" - ["curiosity"]}
+{2: "OmG pEyToN iSn'T gOoD eNoUgH tO hElP uS iN tHe PlAyOfFs! Dumbass Broncos fans circa December 2015." - ["surprise"]}
+{3: "WHY THE FUCK IS BAYLESS ISOING" - ["anger"]}
+{4: "You can always kneel." - ["approval"]}
+{5: "R/sleeptrain Might be time for some sleep training. Take a look and try to feel out what's right for your family." - ["caring"]}
+{6: "I wouldn't let a sweet potato dictate decisions, ever." - ["disapproval"]}
+{7: "It's true though. He either gets no shirt and freezes to death or wears a stupid looking butchers cape. I hope he gets something better next season" - ["optimism"]}
+{8: "He was off by 5 minutes, not impressed. " - ["disappointment"]}
+{9: "Demographics? I don\u2019t know anybody under 35 who has cable tv." - ["confusion"]}
+{10: "Really wish we had got something like this!" - ["desire"]}
+{11: "Not surprised, damn that sucks. Concussions are awful." - ["disgust"]}
+{12: "same but with panic at the disco" - ["nervousness"]}
+{13: "My favourite food is anything I didn't have to cook myself." - ["neutral"]}
+{14: "Huh, so there should be no more men's and women's sports, bathrooms, prisons, etc.?" - ["annoyance". "neutral"]}
+{15: "No he didn't lol every ref gives that. He was looking for it but it's still a foul" - ["amusement","neutral"]}
+(FEW_SHOT_EXAMPLE END)

@@ -1,0 +1,9 @@
+(GUIDELINES) 
+1. Evidence-Based: Quote specific words, punctuation (e.g., '!', '...'), or interpret the tone directly from the text to support your stance. 
+2. Differentiation: Establish an initial logic for why your emotion fits BETTER than the opponent's (e.g., intensity, direction, or nuance). 
+3. Conciseness: Keep your argument sharp and persuasive. 
+4. input description:
+- 'text': The original input text (currently classified as Unsettled). 
+- 'assigned_emotion': The emotion label you must defend (My Stance). 
+- 'opponent_emotion': The competing emotion label you must argue against (Opponent Stance). 
+(GUIDELINES END)

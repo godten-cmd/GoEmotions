@@ -1,0 +1,18 @@
+(FEW_SHOT_EXAMPLE)
+{"example_id": 0, "input": {"text": "I love Rocket Love and Blasted. I just wonder who the songs were written for because these are all reference tracks except Acura Intergul", "polarity": ["positive"]}, "output": {"analysis": [{"ekman": “joy"}]}}
+{"example_id": 1, "input": {"text": "I think the 90 day rule applies to increases over 5%?", "polarity": ["ambiguous"]}, "output": {"analysis": [{"ekman": “surprise"}]}}
+{"example_id": 2, "input": {"text": "OmG pEyToN iSn'T gOoD eNoUgH tO hElP uS iN tHe PlAyOfFs! Dumbass Broncos fans circa December 2015.", "polarity": ["ambiguous"]}, "output": {"analysis": [{"ekman": "surprise"}]}}
+{"example_id": 3, "input": {"text": "WHY THE FUCK IS BAYLESS ISOING", "polarity": ["negative"]}, "output": {"analysis": [{"ekman": "anger"}]}}
+{"example_id": 4, "input": {"text": "You can always kneel.", "polarity": ["positive"]}, "output": {"analysis": [{"ekman": "joy"}]}}
+{"example_id": 5, "input": {"text": "R/sleeptrain Might be time for some sleep training. Take a look and try to feel out what's right for your family.", "polarity": ["positive"]}, "output": {"analysis": [{"ekman": "joy"}]}}
+{"example_id": 6, "input": {"text": "I wouldn't let a sweet potato dictate decisions, ever.", "polarity": ["negative"]}, "output": {"analysis": [{"ekman": "anger"}]}}
+{"example_id": 7, "input": {"text": "It's true though. He either gets no shirt and freezes to death or wears a stupid looking butchers cape. I hope he gets something better next season", "polarity": ["positive"]}, "output": {"analysis": [{"ekman": "joy"}]}}
+{"example_id": 8, "input": {"text": "He was off by 5 minutes, not impressed. ", "polarity": ["negative"]}, "output": {"analysis": [{"ekman": "sadness"}]}}
+{"example_id": 9, "input": {"text": "Demographics? I don\u2019t know anybody under 35 who has cable tv.", "polarity": ["ambiguous"]}, "output": {"analysis": [{"ekman": "surprise"}]}}
+{"example_id": 10, "input": {"text": "Really wish we had got something like this!", "polarity": ["positive"]}, "output": {"analysis": [{"ekman": "joy"}]}}
+{"example_id": 11, "input": {"text": "Not surprised, damn that sucks. Concussions are awful.", "polarity": ["negative"]}, "output": {"analysis": [{"ekman": "disgust"}]}}
+{"example_id": 12, "input": {"text": "same but with panic at the disco"}, "output": {"analysis": [{"ekman": "fear"}]}}
+{"example_id": 13, "input": {"text": "i got a bump and a bald spot. i feel dumb <3", "polarity": ["negative"]}, "output": {"analysis": [{"ekman": "sadness"}]}}
+{"example_id": 14, "input": {"text": "Huh, so there should be no more men's and women's sports, bathrooms, prisons, etc.?", "polarity": ["negative", “neutral”]}, "output": {"analysis": [{"ekman": "anger"}, {"ekman": "neutral"}]}}
+{"example_id": 15, "input": {"text": "No he didn't lol every ref gives that. He was looking for it but it's still a foul", "polarity": ["positive", “neutral”]}, "output": {"analysis": [{"ekman": "joy"}, {"ekman": "neutral"}]}}
+(FEW_SHOT_EXAMPLE END)

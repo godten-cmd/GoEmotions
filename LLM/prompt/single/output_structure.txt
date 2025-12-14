@@ -1,0 +1,6 @@
+(OUTPUT STRUCTURE)
+1. Strict JSON Output: Your final output must be a single JSON object. Do not include any text outside of this JSON object. 
+2. JSON Structure: The JSON object must contain a key named analysis which is an array of objects. Each object in the array represents a single identified emotion and must contain the following two keys: 
+-emotion: The specific emotion label from the list. 
+-reason: A brief, objective explanation of why you chose this emotion, citing specific words or phrases from the text. 
+(OUTPUT STRUCTURE END)
