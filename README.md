@@ -10,7 +10,7 @@ on the **GoEmotions dataset (28 emotion labels)**.
 
 Rather than relying on model fine-tuning, this work shows that
 **reasoning structure and task decomposition alone** can unlock substantial performance gains
-in LLM-based emotion analysis systems :contentReference[oaicite:0]{index=0}.
+in LLM-based emotion analysis systems.
 
 ---
 
@@ -74,8 +74,6 @@ GoEmotions is particularly challenging due to:
 - Semantic overlap between emotion classes
 - Severe label imbalance
 - Frequent presence of implicit or ambiguous emotions
-
-For these reasons, **macro-F1** is used as the primary evaluation metric :contentReference[oaicite:1]{index=1}.
 
 ---
 
@@ -235,15 +233,6 @@ into **transparent emotion reasoning systems**.
 - Emotion trajectory tracking in dialogue
 - Domain adaptation and personalization
 - Data augmentation for underrepresented emotions
-
----
-
-## 📜 Reference
-
-If you use this work, please cite:
-
-> **Enhancing Fine-Grained Emotion Analysis with Structured Prompting and Multi-Agent Reasoning in LLMs**  
-> Hanyang University, 2025 :contentReference[oaicite:3]{index=3}
 
 ---
 
